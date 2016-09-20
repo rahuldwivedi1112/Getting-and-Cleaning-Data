@@ -1,9 +1,12 @@
-This repo contains my course project to Coursera "Getting And Cleaning Data" course that is part of Data Science specialization.
+# Getting And Cleaning Data - Course Project
 
-There is just one script called run_analysis.R. It contains all functions and code to do the following:
+## Introduction
 
-Download UCI HAR zip file to data dir
-Read data
-Do some transformations
-Write output data to a CSV file inside data/output dir
-The CodeBook.md explains it more detailed.
+This repo contains my course project to [Coursera](https://www.coursera.org) ["Getting And Cleaning Data"](https://class.coursera.org/getdata-002) course that is part of [Data Science](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) specialization.
+
+There is just one script called `run_analysis.R`. It contains all functions and code to do the following:
+
+1. Read data
+2. Do some transformations
+3. Write output data to a Txt file \
+
